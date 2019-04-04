@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-app/stuManage-app.iml" filepath="$PROJECT_DIR$/../luly/stuManage-app/stuManage-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-app/stuManage-common/stuManage-common.iml" filepath="$PROJECT_DIR$/../luly/stuManage-app/stuManage-common/stuManage-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-province-mix/stuManage-province-mix.iml" filepath="$PROJECT_DIR$/../luly/stuManage-province-mix/stuManage-province-mix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-app/stuManage-routine-parent/stuManage-routine-parent.iml" filepath="$PROJECT_DIR$/../luly/stuManage-app/stuManage-routine-parent/stuManage-routine-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-app/stuManage-sec-parent/stuManage-sec-parent.iml" filepath="$PROJECT_DIR$/../luly/stuManage-app/stuManage-sec-parent/stuManage-sec-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../luly/stuManage-app/stuManage-utils/stuManage-utils.iml" filepath="$PROJECT_DIR$/../luly/stuManage-app/stuManage-utils/stuManage-utils.iml" />
+    </modules>
+  </component>
+</project>
