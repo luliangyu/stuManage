@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="stuManage-web:war">
+    <output-path>D:/luly/stuManage-app/stuManage-web/target</output-path>
+    <root id="archive" name="stuManage-web-1.0.1.war">
+      <element id="artifact" artifact-name="stuManage-web:war exploded" />
+    </root>
+  </artifact>
+</component>
